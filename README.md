@@ -38,11 +38,11 @@
 
 | Desktop | Terminal |
 |:---:|:---:|
-| `screenshot here` | `screenshot here` |
+| <img width="1139" height="477" alt="Screenshot 2026-04-03 101328" src="https://github.com/user-attachments/assets/01dbfbe0-4e25-46c0-aa3e-8b1a78c90981" /> | <img width="825" height="719" alt="Screenshot 2026-04-03 101145" src="https://github.com/user-attachments/assets/f049ede8-7d3e-41a3-92dd-7e4317fd325d" /> |
 
-| Nilesoft Shell | Fastfetch |
+| Spotify | Bar |
 |:---:|:---:|
-| `screenshot here` | `screenshot here` |
+| <img width="1888" height="971" alt="Screenshot 2026-04-03 100935" src="https://github.com/user-attachments/assets/b9d8001b-440e-4b86-99f1-7bf5a775c0af" /> | <img width="1919" height="50" alt="Screenshot 2026-04-03 101013" src="https://github.com/user-attachments/assets/b4352cde-c7c8-4388-8dc0-4178a9797c3d" /> |
 
 </div>
 
