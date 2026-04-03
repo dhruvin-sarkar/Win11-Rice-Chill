@@ -3,15 +3,15 @@
 <br>
  
 ```
-  .oooooo.                 .                                                          o8o             
- d8P'  `Y8b              .o8                                                          `"'             
-888           .oooo.   .o888oo oo.ooooo.  oo.ooooo.  oooo  oooo   .ooooo.   .ooooo.  oooo  ooo. .oo.  
-888          `P  )88b    888    888' `88b  888' `88b `888  `888  d88' `"Y8 d88' `"Y8 `888  `888P"Y88b 
-888           .oP"888    888    888   888  888   888  888   888  888       888        888   888   888 
-`88b    ooo  d8(  888    888 .  888   888  888   888  888   888  888   .o8 888   .o8  888   888   888 
- `Y8bood8P'  `Y888""8o   "888"  888bod8P'  888bod8P'  `V88V"V8P' `Y8bod8P' `Y8bod8P' o888o o888o o888o
-                                888        888                                                        
-                               o888o      o888o                                                          
+    .oooooo.                 .                                                          o8o             
+   d8P'  `Y8b              .o8                                                          `"'             
+  888           .oooo.   .o888oo oo.ooooo.  oo.ooooo.  oooo  oooo   .ooooo.   .ooooo.  oooo  ooo. .oo.  
+  888          `P  )88b    888    888' `88b  888' `88b `888  `888  d88' `"Y8 d88' `"Y8 `888  `888P"Y88b 
+  888           .oP"888    888    888   888  888   888  888   888  888       888        888   888   888 
+  `88b    ooo  d8(  888    888 .  888   888  888   888  888   888  888   .o8 888   .o8  888   888   888 
+   `Y8bood8P'  `Y888""8o   "888"  888bod8P'  888bod8P'  `V88V"V8P' `Y8bod8P' `Y8bod8P' o888o o888o o888o
+                                  888        888                                                        
+                                 o888o      o888o                                                          
 ```
  
 ### a catppuccin mocha windows 11 rice
